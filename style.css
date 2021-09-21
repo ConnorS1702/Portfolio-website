@@ -599,7 +599,7 @@ main {
     padding-top: 1.5rem;
 }
 .google-clone-img {
-    width: 400px;
+    width: 50vw;
     padding: 0.5rem;
     border-radius: 25px;
 }
@@ -609,6 +609,7 @@ main {
 }
 .heading-project2 {
     padding-top: 3rem;
+    line-height: 1.7rem;
 }
 .contact-me {
     width: 80vw;
