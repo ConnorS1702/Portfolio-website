@@ -12,7 +12,7 @@ let skills = [
         id: 1,
         title: "HTML & CSS",
         img: "https://res.cloudinary.com/dnwrs7jqf/image/upload/v1628637365/Portfolio%20Website%20Assets/html-css_fvaerq.png",
-        quote: "My positions in a web development team is absolute!",
+        quote: "My position in a web development team is absolute!",
         paragraph: "I learnt HTML and CSS first on my journey to become a web developer, I learnt how to do mobile first development as seen in this webpage and more!"
     },
     {
@@ -27,7 +27,7 @@ let skills = [
         title: "JS Frameworks",
         img: "https://res.cloudinary.com/dnwrs7jqf/image/upload/v1628639305/Portfolio%20Website%20Assets/React_new_y9rjv5.png",
         quote: "I hope you vue this positively and react accordingly",
-        paragraph: "After learning JS I plan on learning some JS frameworks. I am starting with react. Fingers crossed it won't be that long till I have work to show you!"
+        paragraph: "After learning JS I plan on learning some JS frameworks. I have already started with react! Fingers crossed it won't be that long till I have work to show you!"
     },
     {
         id: 4,
